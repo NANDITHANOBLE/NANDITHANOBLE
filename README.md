@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @NANDITHANOBLE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Nanditha Noble
 
+🚀 **About Me:**
+- 👀 I’m interested in Artificial Intelligence, Data Science, and Software Development.
+- 🌱 I’m currently learning AngularJS, ReactJS, and advanced Machine Learning techniques.
+- 💞️ I’m looking to collaborate on AI/ML projects, Open Source contributions, and Web Development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandithanoble)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love painting, crafting, and dancing occasionally! 🎨💃
 <!---
 NANDITHANOBLE/NANDITHANOBLE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
