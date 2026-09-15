@@ -1,101 +1,17 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on AI, Machine Learning, Data Science, and Generative AI projects<br><br>👯 I’m looking to collaborate on AI/ML, Data Science, LLM, and Open Source projects<br><br>🤝 I’m looking for help with Agentic AI, MLOps, and scalable AI applications<br><br>🌱 I’m currently learning LangGraph, RAG, Advanced Machine Learning, and AI Deployment<br><br>💬 Ask me about Python, Data Science, Machine Learning, Deep Learning, LLMs, FastAPI, and GitHub<br><br>⚡ Fun fact: I love building unique AI and Data Science projects that solve real-world problems and stand out from traditional portfolios
 
-# 👋 Hi, I'm Nanditha Noble
 
-### Associate Engineer @ Verticurl
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandithanoble/) 
 
-### AI • Machine Learning • Data Science • Generative AI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+%2B+RAG+%2B+s://git.io/typing-svg)
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building AI, Machine Learning, Data Science and Generative AI solutions
-- 🌱 Learning LangGraph, Agentic AI, MLOps and AI Deployment
-- 🤝 Open to collaborating on AI/ML and Open Source Projects
-- 💬 Ask me about Python, Machine Learning, Deep Learning, FastAPI, LangChain and RAG
-- ⚡ Passionate about creating real-world AI solutions with business impact
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NANDITHANOBLE&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NANDITHANOBLE&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NANDITHANOBLE&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## 🧠 Featured Projects
-
-### NeuroPlay-AI
-AI-powered behavioral prediction game with machine learning-driven insights.
-
-### DocVerse-AI
-RAG-based PDF Question Answering System using LangChain and Vector Databases.
-
-### PulseCost Engine
-Healthcare Risk and Expense Prediction Platform.
-
-### CauseFlow AI
-Manufacturing Failure Prediction and Root Cause Analytics.
-
-### FinTrack
-Smart Expense Tracking and Budget Prediction Application.
-
-### Hospital Management System
-Database-driven healthcare management solution.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-=python&logoColor=white
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptck
-
-### AI & Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Generative AI
-![LangChain](https://img.shields.io/badge/LangChain=for-the-badge
-![LangGraph](https://img.shields.io/badge/LangGraph=for-the-badge
-![RAG](https://img.shields.io/badge/RAG?style=for-the-badge
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-
-### Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=oColor=white
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NANDITHANOBLE&show_icons=true&theme=tokyonight&hide_border=true"/https://github-readme-stats.vercel.app/api/top-langs/?username=NANDITHANOBLE&layout=compact&theme=tokyonmg src="https://streak-stats.demolab.com?user=NANDITHANOBLE&theme=&hide_border=true
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NANDITHANOBLE&theme=tokyonight&no-frame=true&row=1"/-
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nanditha%20Noble-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandithoimbatore, Tamil Nadu, India
-
----
-
-<div align="center">
-
-💡 *Building AI solutions that create real-world impact.*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
