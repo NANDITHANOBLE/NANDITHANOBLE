@@ -1,144 +1,74 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Nanditha+Noble+%F0%9F%91%8B;Associate+Engineer+%40+Verticurl;AI+%2F+ML+%2F+GenAI+Engineer;Building+with+LLMs+%2B+RAG+%2B+LangChain" alt="Typing SVG" />
+# 👋 Hi, I'm Nanditha Noble
 
-</div>
+### Associate Engineer @ Verticurl
 
-<br/>
-```python
-class NandithaNoble:
-    def __init__(self):
-        self.role        = "Associate Engineer @ Verticurl"
-        self.location    = "Coimbatore, Tamil Nadu"
-        self.focus       = ["Artificial Intelligence", "Machine Learning",
-                             "Data Science", "Generative AI"]
-        self.building    = ["Machine Learning", "LLMs", "RAG",
-                             "LangChain", "LangGraph", "FastAPI"]
-        self.learning    = ["Agentic AI", "AI Deployment",
-                             "MLOps", "Scalable AI Systems"]
-        self.open_to     = ["AI/ML Collaboration", "Data Analytics",
-                             "Open Source Projects"]
+### AI • Machine Learning • Data Science • Generative AI
 
-    def fun_fact(self):
-        return "I love building unique, real-world AI projects that " \
-               "blend business impact with cutting-edge technology 🚀"
-```
-<div align="center">
-
-### 🧬 System Status
-
-| 🔭 Currently Building | 🌱 Currently Learning | 👯 Open To | 💬 Ask Me About |
-|:---:|:---:|:---:|:---:|
-| ML • LLMs • RAG • LangChain • LangGraph • FastAPI | Agentic AI • AI Deployment • MLOps • Scalable AI Systems | AI/ML • Data Analytics • Open Source | Python • ML • DL • Data Analytics • FastAPI • LangChain • RAG • GenAI |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+%2B+RAG+%2B+s://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🗂️ Featured Builds
+## 🚀 About Me
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🧠 [NeuroPlay-AI](https://github.com/NANDITHANOBLE/NeuroPlay-AI)
-Behavioral prediction game powered by Machine Learning and interactive analytics.
-
-</td>
-<td width="50%">
-
-### 📄 [DocVerse-AI](https://github.com/NANDITHANOBLE/DocVerse-AI)
-RAG-based PDF Question Answering system using LangChain and Vector Databases.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 [PulseCost Engine](https://github.com/NANDITHANOBLE/PulseCost-Engine)
-Healthcare Expense & Risk Prediction platform using predictive analytics.
-
-</td>
-<td width="50%">
-
-### 🔍 [CauseFlow AI](https://github.com/NANDITHANOBLE/CauseFlow-AI)
-Manufacturing Failure Analysis and Root Cause Prediction system.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [FinTrack](https://github.com/NANDITHANOBLE/FinTrack)
-Smart expense tracking and budget prediction application.
-
-</td>
-<td width="50%">
-
-### 🏨 [Hospital Management System](https://github.com/NANDITHANOBLE/Hospital-Management-System)
-End-to-end database-driven healthcare management solution.
-
-</td>
-</tr>
-</table>
+- 🔭 Currently building AI, Machine Learning, Data Science and Generative AI solutions
+- 🌱 Learning LangGraph, Agentic AI, MLOps and AI Deployment
+- 🤝 Open to collaborating on AI/ML and Open Source Projects
+- 💬 Ask me about Python, Machine Learning, Deep Learning, FastAPI, LangChain and RAG
+- ⚡ Passionate about creating real-world AI solutions with business impact
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Featured Projects
 
-<details open>
-<summary><b>🔤 Languages</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</details>
+### NeuroPlay-AI
+AI-powered behavioral prediction game with machine learning-driven insights.
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</details>
+### DocVerse-AI
+RAG-based PDF Question Answering System using LangChain and Vector Databases.
 
-<details>
-<summary><b>✨ Generative AI</b></summary>
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-</details>
+### PulseCost Engine
+Healthcare Risk and Expense Prediction Platform.
 
-<details>
-<summary><b>🛠️ Backend</b></summary>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</details>
+### CauseFlow AI
+Manufacturing Failure Prediction and Root Cause Analytics.
 
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</details>
+### FinTrack
+Smart Expense Tracking and Budget Prediction Application.
 
-<details>
-<summary><b>🧰 Tools</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</details>
+### Hospital Management System
+Database-driven healthcare management solution.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-=python&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptck
+
+### AI & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Generative AI
+![LangChain](https://img.shields.io/badge/LangChain=for-the-badge
+![LangGraph](https://img.shields.io/badge/LangGraph=for-the-badge
+![RAG](https://img.shields.io/badge/RAG?style=for-the-badge
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+
+### Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=oColor=white
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -146,34 +76,26 @@ End-to-end database-driven healthcare management solution.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NANDITHANOBLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="Nanditha's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDITHANOBLE&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=NANDITHANOBLE&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" alt="GitHub Streak"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NANDITHANOBLE&show_icons=true&theme=tokyonight&hide_border=true"/https://github-readme-stats.vercel.app/api/top-langs/?username=NANDITHANOBLE&layout=compact&theme=tokyonmg src="https://streak-stats.demolab.com?user=NANDITHANOBLE&theme=&hide_border=true
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-## 📡 Connect
+<img src="https://github-profile-trophy.vercel.app/?username=NANDITHANOBLE&theme=tokyonight&no-frame=true&row=1"/-
 
-<a href="https://www.linkedin.com/in/nandithanoble/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:noblenanditha@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🌐 Connect With Me
 
-📍 Coimbatore, Tamil Nadu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nanditha%20Noble-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandithoimbatore, Tamil Nadu, India
 
-<br/>
+---
 
-> ⚡ *"I love building unique, real-world AI projects that blend business impact with cutting-edge technology."*
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6E56CF&height=100&section=footer"/>
+💡 *Building AI solutions that create real-world impact.*
 
 </div>
