@@ -40,7 +40,7 @@ End-to-end database-driven healthcare management solution.
 
 [LinkedIn](https://www.linkedin.com/in/nandithanoble)
 
-📧 Email: your-email@gmail.com
+📧 Email: noblenanditha@gmail.com
 
 📍 Coimbatore, Tamil Nadu,
 
