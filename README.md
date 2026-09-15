@@ -6,8 +6,7 @@
 </div>
 
 <br/>
-
-\`\`\`python
+```python
 class NandithaNoble:
     def __init__(self):
         self.role        = "Associate Engineer @ Verticurl"
@@ -24,7 +23,7 @@ class NandithaNoble:
     def fun_fact(self):
         return "I love building unique, real-world AI projects that " \
                "blend business impact with cutting-edge technology 🚀"
-\`\`\`
+```
 <div align="center">
 
 ### 🧬 System Status
@@ -147,10 +146,12 @@ End-to-end database-driven healthcare management solution.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NANDITHANOBLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Nanditha's GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=NANDITHANOBLE&theme=tokyonight&hide_border=true" width="49%" alt="Nanditha's GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NANDITHANOBLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="Nanditha's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDITHANOBLE&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDITHANOBLE&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=NANDITHANOBLE&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" alt="GitHub Streak"/>
 
 </div>
 
@@ -161,10 +162,10 @@ End-to-end database-driven healthcare management solution.
 ## 📡 Connect
 
 <a href="https://www.linkedin.com/in/nandithanoble/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:noblenanditha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 📍 Coimbatore, Tamil Nadu
