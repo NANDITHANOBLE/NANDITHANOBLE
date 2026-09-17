@@ -4,7 +4,7 @@
 
 # ✨ Nanditha Noble ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Nanditha+Noble+%F0%9F%91%8B;Associate+Engineer+%40+Verticurl;AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;LLMs+%7C+RAG+%7C+LangChain;Building+Real+World+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Nanditha+Noble+%F0%9F%91%8B;AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;LLMs+%7C+RAG+%7C+LangChain;Building+Real+World+AI+Solutions" alt="Typing SVG" />
 
 </div>
 
